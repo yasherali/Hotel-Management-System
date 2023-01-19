@@ -1,2 +1,2 @@
 # Hotel-Management-System
-i've developed this system on JAVA using Netbeans GUI and MySQL.
+we have developed a website on hotel management system using HTML, CSS, Bootstrap, PHP and MySQL.
